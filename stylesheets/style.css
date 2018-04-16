@@ -1,0 +1,9 @@
+body {
+  background: cyan;
+  color: pink;
+}
+
+img {
+  background-image: src('../images/IMG_1533.jpg');
+}
+
